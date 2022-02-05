@@ -1,4 +1,5 @@
 # Tutorial on Docker Compose | Node
+> **Author -** Ishaan Khurana, [LinkedIn](https://www.linkedin.com/in/ishaan-khurana-46968679/)
 
 ## Objective
 This tutorial focuses on docker-compose and how to use this tool to define multi-container applications. By the end of this tutorial, you should be able to write your own docker-compose scripts to manage systems consisting of more than just one containerized application or service.
